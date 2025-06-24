@@ -151,8 +151,7 @@ Feel free to submit issues and enhancement requests!
 
 ## License
 
-This project is open source. Please check with the author for specific license terms.
-
+This project is licensed under the MIT License - see the LICENSE file for details.
 ## Author
 
 **Keerthi Sagar SN**  
